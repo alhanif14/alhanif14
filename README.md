@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alhanif14
-- 👀 I’m interested in Front-End Developer
+- 👀 I’m interested in Front-End Development & UI UX Design
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me azizhanif1405@gmail.com
